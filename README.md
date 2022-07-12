@@ -15,7 +15,7 @@
 
 ## Blueprint
 
-![codedeploy1](E:\GitTonyStark\AWSCodeDeployExample\img\codedeploy1.png)
+![codedeploy1](https://github.com/tonystark201/Auto-Deployment-using-Codedeploy/blob/main/img/codedeploy1.png)
 
 ## Terraform
 
